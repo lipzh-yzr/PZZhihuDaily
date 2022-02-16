@@ -1,0 +1,76 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - DKNightVersion (2.4.3):
+    - DKNightVersion/Core (= 2.4.3)
+    - DKNightVersion/CoreAnimation (= 2.4.3)
+    - DKNightVersion/UIKit (= 2.4.3)
+  - DKNightVersion/Core (2.4.3):
+    - DKNightVersion/Core/DeallocBlockExecutor (= 2.4.3)
+    - DKNightVersion/Core/extobjc (= 2.4.3)
+  - DKNightVersion/Core/DeallocBlockExecutor (2.4.3)
+  - DKNightVersion/Core/extobjc (2.4.3)
+  - DKNightVersion/CoreAnimation (2.4.3):
+    - DKNightVersion/Core
+  - DKNightVersion/UIKit (2.4.3):
+    - DKNightVersion/Core
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Masonry (1.1.0)
+  - MJRefresh (3.7.5)
+  - RTRootNavigationController (0.8.0):
+    - RTRootNavigationController/Core (= 0.8.0)
+  - RTRootNavigationController/Core (0.8.0)
+  - SDWebImage (5.12.1):
+    - SDWebImage/Core (= 5.12.1)
+  - SDWebImage/Core (5.12.1)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 4.0)
+  - DKNightVersion
+  - FMDB
+  - Masonry
+  - MJRefresh
+  - RTRootNavigationController
+  - SDWebImage
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - DKNightVersion
+    - FMDB
+    - Masonry
+    - MJRefresh
+    - RTRootNavigationController
+    - SDWebImage
+    - YYModel
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  DKNightVersion: eaa80cc4014b4bae7d4b535fd87ecc6a3c2767b3
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  RTRootNavigationController: 36c6301870f0467f89d69f4286795340b537d473
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 0b3f224d65cc9afc0347a0d2739674b441b76d28
+
+COCOAPODS: 1.11.2
